@@ -1,0 +1,1 @@
+This is to help me to better my JS skills.
