@@ -1,15 +1,24 @@
-h1{
-    color : red;
+body{
+    background-color: black;
 }
-
+h1{
+    color: white;
+}
 p{
+    background-color: gray;
+    color: wheat;
+}
+#p1{
     color: aqua;
 }
-
-button{
-    color:blue
+.odd{
+    color: green;
 }
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    text-decoration: darkslateblue;
+    font-size:large;
 
-.headings{
-    color: chocolate;
 }
